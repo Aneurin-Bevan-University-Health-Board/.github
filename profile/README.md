@@ -26,7 +26,9 @@ This repository is part of the broader **GitHub GIG Cymru NHS Wales** initiative
 **Learn more about GIG Cymru NHS Wales:** [GitHub Organization](https://github.com/gigcymru)
 
 ## Solutions Exchange
-
+<p align="center">
+  <img src="Solex.png" alt="Screenshot of Solutions Exchange" />
+</p>
 Explore innovative solutions and collaborative projects from across the GIG Cymru community:
 
 🔗 **[Solutions Exchange](https://gigcymru.github.io/Solutions-Exchange/index.html)**
