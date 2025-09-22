@@ -18,7 +18,9 @@ Aneurin Bevan University Health Board is committed to delivering excellent healt
 While the Information Services Business Intelligence Team maintains product ownership of this organisational repository, it serves **all aspects of the Health Board** - not exclusively Information Services. This includes clinical services, administrative functions, research initiatives, and all other departments within Aneurin Bevan University Health Board.
 
 ## Partnership with GIG Cymru NHS Wales
-
+<p align="center">
+  <img src="ABUHB%20Blue%20Logo.jpeg" alt="ABUHB Logo" />
+</p>
 This repository is part of the broader **GitHub GIG Cymru NHS Wales** initiative, fostering collaboration and innovation across NHS Wales organisations. Through this partnership, we contribute to and benefit from shared knowledge, best practices, and digital solutions across the Welsh healthcare system.
 
 **Learn more about GIG Cymru NHS Wales:** [GitHub Organization](https://github.com/gigcymru)
