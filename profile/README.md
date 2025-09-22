@@ -19,7 +19,7 @@ While the Information Services Business Intelligence Team maintains product owne
 
 ## Partnership with GIG Cymru NHS Wales
 <p align="center">
-  <img src="ABUHB%20Blue%20Logo.jpeg" alt="ABUHB Logo" />
+  <img src="gig-cymru-nhs-wales.jpg" alt="Gig Cymru Logo" />
 </p>
 This repository is part of the broader **GitHub GIG Cymru NHS Wales** initiative, fostering collaboration and innovation across NHS Wales organisations. Through this partnership, we contribute to and benefit from shared knowledge, best practices, and digital solutions across the Welsh healthcare system.
 
